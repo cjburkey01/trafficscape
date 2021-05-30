@@ -2,7 +2,7 @@
 name = "trafficscape"
 description = "A simple traffic simulation program"
 authors = ["CJ Burkey"]
-license = "MIT"
+license-file = "LICENSE"
 readme = "README.md"
 version = "0.1.0"
 edition = "2018"
