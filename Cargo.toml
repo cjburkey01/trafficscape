@@ -1,0 +1,11 @@
+[package]
+name = "trafficscape"
+description = "A simple traffic simulation program"
+authors = ["CJ Burkey"]
+license = "MIT"
+readme = "README.md"
+version = "0.1.0"
+edition = "2018"
+
+[dependencies]
+femtovg = "0.2.0"
