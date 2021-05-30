@@ -8,4 +8,9 @@ version = "0.1.0"
 edition = "2018"
 
 [dependencies]
+# Rendering
 femtovg = "0.2.0"
+glutin = "0.26.0"
+
+# Error management
+thiserror = "1.0.25"
