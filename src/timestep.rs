@@ -9,10 +9,6 @@ pub struct TimeStep {
     // FPS tracking
     frame_count: u32,
     frame_time: f64,
-
-    // UPS tracking
-    tick_count: u32,
-    tick_time: f64,
 }
 
 impl TimeStep {
@@ -22,8 +18,6 @@ impl TimeStep {
             delta_time: 0.0,
             frame_count: 0,
             frame_time: 0.0,
-            tick_count: 0,
-            tick_time: 0.0,
         }
     }
 
