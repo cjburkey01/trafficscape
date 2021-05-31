@@ -8,6 +8,9 @@ version = "0.1.0"
 edition = "2018"
 
 [dependencies]
+# Vector and matrix maths
+cgmath = "0.18.0"
+
 # Rendering
 femtovg = "0.2.0"
 glutin = "0.26.0"
